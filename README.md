@@ -26,7 +26,6 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='https://imgur.com/a/qhk3U68' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![Alt Text](https://imgur.com/a/qhk3U68/)
 
 <!-- Replace this with whatever GIF tool you used! -->
 getkap

@@ -41,7 +41,7 @@ Well when I was initially starting the project, I could not locate the files eve
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Nana Boateng Amoah]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

@@ -18,14 +18,15 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
-    [ ] Added a display of backers and goal on game cards. 
+* [X] List anything else that you can get done to improve the app functionality!
+ * [X] Added a display of backers and goal on game cards. 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
 <img src='https://imgur.com/a/qhk3U68' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 getkap
